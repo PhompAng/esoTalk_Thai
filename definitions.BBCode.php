@@ -2,12 +2,12 @@
 // Copyright 2011 Toby Zerner, Simon Zerner
 // This file is part of esoTalk. Please see the included license file for usage information.
 
-// English Definitions for the BBCode plugin.
+// Thai Definitions for the BBCode plugin.
 
-$definitions["Code"] = "Code";
-$definitions["Image"] = "Image";
-$definitions["Link"] = "Link";
-$definitions["Strike"] = "Strike";
-$definitions["Header"] = "Header";
-$definitions["Italic"] = "Italic";
-$definitions["Bold"] = "Bold";
+$definitions["Code"] = "โค้ด";
+$definitions["Image"] = "รูปภาพ";
+$definitions["Link"] = "ลิงค์";
+$definitions["Strike"] = "ขีดฆ่า";
+$definitions["Header"] = "หัวข้อ";
+$definitions["Italic"] = "ตัวเอียง";
+$definitions["Bold"] = "ตัวหนา";
