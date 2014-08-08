@@ -2,10 +2,10 @@
 // Copyright 2011 Toby Zerner, Simon Zerner
 // This file is part of esoTalk. Please see the included license file for usage information.
 
-ET::$languageInfo["English"] = array(
-	"locale" => "en-US",
-	"name" => "English",
-	"description" => "A casual English language pack.",
+ET::$languageInfo["Thai"] = array(
+	"locale" => "th-TH",
+	"name" => "Thai",
+	"description" => "A casual Thai language pack.",
 	"version" => ESOTALK_VERSION,
 	"author" => "esoTalk Team",
 	"authorEmail" => "support@esotalk.org",
@@ -18,20 +18,20 @@ $definitions["charset"] = "utf-8";
 
 $definitions["date.full"] = "%c";
 
-$definitions["%d day ago"] = "yesterday";
-$definitions["%d days ago"] = "%d days ago";
-$definitions["%d hour ago"] = "1 hour ago";
-$definitions["%d hours ago"] = "%d hours ago";
-$definitions["%d minute ago"] = "1 minute ago";
-$definitions["%d minutes ago"] = "%d minutes ago";
-$definitions["%d month ago"] = "1 month ago";
-$definitions["%d months ago"] = "%d months ago";
-$definitions["%d second ago"] = "1 second ago";
-$definitions["%d seconds ago"] = "%d seconds ago";
-$definitions["%d week ago"] = "last week";
-$definitions["%d weeks ago"] = "%d weeks ago";
-$definitions["%d year ago"] = "last year";
-$definitions["%d years ago"] = "%d years ago";
+$definitions["%d day ago"] = "มื่อวาน";
+$definitions["%d days ago"] = "%d วันก่อน";
+$definitions["%d hour ago"] = "1 ชั่วโมงก่อน";
+$definitions["%d hours ago"] = "%d ชั่วโมงก่อน";
+$definitions["%d minute ago"] = "1 นาทีก่อน";
+$definitions["%d minutes ago"] = "%d นาทีก่อน";
+$definitions["%d month ago"] = "1 เดือนก่อน";
+$definitions["%d months ago"] = "%d เดือนก่อน";
+$definitions["%d second ago"] = "1 วินาทีก่อน";
+$definitions["%d seconds ago"] = "%d วินาทีก่อน";
+$definitions["%d week ago"] = "สัปดาห์ที่แล้ว";
+$definitions["%d weeks ago"] = "%d สัปดาห์ก่อน";
+$definitions["%d year ago"] = "ปีที่แล้ว";
+$definitions["%d years ago"] = "%d ปีก่อน";
 
 $definitions["%s and %s"] = "%s and %s";
 $definitions["%s can view this conversation."] = "%s can view this conversation.";
