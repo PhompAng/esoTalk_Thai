@@ -128,15 +128,15 @@ $definitions["Delete Channel"] = "ลบแชเนล";
 $definitions["Delete conversation"] = "ลบการสนทนา";
 $definitions["Delete member"] = "ลบสมาชิก";
 $definitions["Delete Member"] = "ลบสมาชิก";
-$definitions["<strong>Delete this member's posts.</strong> All of this member's posts will be marked as deleted, but will be able to be restored manually."] = "<strong>ลบโพสต์ทั้งหมดของสมาชิกนี้</strong> โพสต์ทั้งหมดของสมาชิกนี้จะถูกทำเครื่องหมายว่าถูกลบแต่จะสามารถเรียกคืนโดยกำหนดเอง"; //need review
+$definitions["<strong>Delete this member's posts.</strong> All of this member's posts will be marked as deleted, but will be able to be restored manually."] = "<strong>ลบโพสต์ทั้งหมดของสมาชิกนี้</strong> โพสต์ทั้งหมดของสมาชิกนี้จะถูกทำเครื่องหมายว่าถูกลบแต่จะสามารถเรียกคืนโดยกำหนดเอง";
 $definitions["Delete"] = "ลบ";
 $definitions["Deleted %s by %s"] = "ถูกลบ %s โดย %s";
 $definitions["Deny"] = "ปฏิเสธ";
 $definitions["Disable"] = "ปิดการใช้งาน";
-$definitions["Discard"] = "ละทิ้ง"; //need review
+$definitions["Discard"] = "ละทิ้ง";
 $definitions["Don't allow other users to see when I am online"] = "ไม่อนุญาตให้ผู้ใช้คนอื่นมองเห็นว่าฉันออนไลน์";
 $definitions["Don't have an account? <a href='%s' class='link-join'>Sign up!</a>"] = "ยังไม่มีบัญชีผู้ใช้? <a href='%s' class='link-join'>สมัครสมาชิก!</a>";
-$definitions["Don't repeat"] = "ไม่ต้องทำซ้ำ"; //need review
+$definitions["Don't repeat"] = "ไม่ต้องทำซ้ำ";
 $definitions["Don't require users to confirm their account"] = "ไม่ต้องให้ผู้ใช้ยืนยันบัญชีผู้ใช้ของเขา";
 
 $definitions["Edit Channel"] = "แก้ไขแชเนล";
