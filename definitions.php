@@ -121,23 +121,23 @@ $definitions["Create Member"] = "สร้างสมาชิก";
 $definitions["Customize how users can become members of your forum."] = "Customize how users can become members of your forum.";
 $definitions["Customize your forum's appearance"] = "ปรับแต่งรูปโฉมของฟอรั่มของคุณ";
 
-$definitions["Dashboard"] = "Dashboard";
-$definitions["Default forum language"] = "Default forum language";
-$definitions["<strong>Delete</strong> all conversations forever."] = "<strong>Delete</strong> all conversations forever.";
-$definitions["Delete Channel"] = "Delete Channel";
-$definitions["Delete conversation"] = "Delete conversation";
-$definitions["Delete member"] = "Delete member";
-$definitions["Delete Member"] = "Delete Member";
-$definitions["<strong>Delete this member's posts.</strong> All of this member's posts will be marked as deleted, but will be able to be restored manually."] = "<strong>Delete this member's posts.</strong> All of this member's posts will be marked as deleted, but will be able to be restored manually.";
-$definitions["Delete"] = "Delete";
-$definitions["Deleted %s by %s"] = "Deleted %s by %s";
-$definitions["Deny"] = "Deny";
-$definitions["Disable"] = "Disable";
-$definitions["Discard"] = "Discard";
-$definitions["Don't allow other users to see when I am online"] = "Don't allow other users to see when I am online";
-$definitions["Don't have an account? <a href='%s' class='link-join'>Sign up!</a>"] = "Don't have an account? <a href='%s' class='link-join'>Sign up!</a>";
-$definitions["Don't repeat"] = "Don't repeat";
-$definitions["Don't require users to confirm their account"] = "Don't require users to confirm their account";
+$definitions["Dashboard"] = "แดชบอร์ด";
+$definitions["Default forum language"] = "ภาษาปริยายของฟอรั่ม";
+$definitions["<strong>Delete</strong> all conversations forever."] = "<strong>ลบ</strong> การสนทนาทั้งหมดตลอดไป";
+$definitions["Delete Channel"] = "ลบแชเนล";
+$definitions["Delete conversation"] = "ลบการสนทนา";
+$definitions["Delete member"] = "ลบสมาชิก";
+$definitions["Delete Member"] = "ลบสมาชิก";
+$definitions["<strong>Delete this member's posts.</strong> All of this member's posts will be marked as deleted, but will be able to be restored manually."] = "<strong>ลบโพสต์ทั้งหมดของสมาชิกนี้</strong> โพสต์ทั้งหมดของสมาชิกนี้จะถูกทำเครื่องหมายว่าถูกลบแต่จะสามารถเรียกคืนโดยกำหนดเอง"; //need review
+$definitions["Delete"] = "ลบ";
+$definitions["Deleted %s by %s"] = "ถูกลบ %s โดย %s";
+$definitions["Deny"] = "ปฏิเสธ";
+$definitions["Disable"] = "ปิดการใช้งาน";
+$definitions["Discard"] = "ละทิ้ง"; //need review
+$definitions["Don't allow other users to see when I am online"] = "ไม่อนุญาตให้ผู้ใช้คนอื่นมองเห็นว่าฉันออนไลน์";
+$definitions["Don't have an account? <a href='%s' class='link-join'>Sign up!</a>"] = "ยังไม่มีบัญชีผู้ใช้? <a href='%s' class='link-join'>สมัครสมาชิก!</a>";
+$definitions["Don't repeat"] = "ไม่ต้องทำซ้ำ"; //need review
+$definitions["Don't require users to confirm their account"] = "ไม่ต้องให้ผู้ใช้ยืนยันบัญชีผู้ใช้ของเขา";
 
 $definitions["Edit Channel"] = "Edit Channel";
 $definitions["Edit Group"] = "Edit Group";
