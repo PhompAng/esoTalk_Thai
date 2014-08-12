@@ -47,8 +47,8 @@ $definitions["%s post"] = "%s โพสต์";
 $definitions["%s posted %s"] = "%s โพสต์ %s";
 $definitions["%s posted in %s."] = "%s โพสต์ใน %s.";
 $definitions["%s posts"] = "%s โพสต์";
-$definitions["%s reply"] = "%s reply";
-$definitions["%s replies"] = "%s replies";
+$definitions["%s reply"] = "%s คำตอบ";
+$definitions["%s replies"] = "%s คำตอบ";
 $definitions["%s Settings"] = "%s Settings";
 $definitions["%s started the conversation %s."] = "%s ได้เริ่มการสนทนา %s.";
 $definitions["%s will be able to view this conversation."] = "%s จะสามารถเห็นการสนทนานี้ได้";
@@ -204,7 +204,7 @@ $definitions["Hide"] = "ซ่อน";
 $definitions["Home page"] = "หน้าหลัก"; //need review
 $definitions["HTML is allowed."] = "อนุญาตให้ใช้ HTML";
 
-$definitions["If you run into any other problems or just want some help with the installation, feel free to ask for assistance at the <a href='%s'>esoTalk support forum</a>."] = "If you run into any other problems or just want some help with the installation, feel free to ask for assistance at the <a href='%s'>esoTalk support forum</a>.";
+$definitions["If you run into any other problems or just want some help with the installation, feel free to ask for assistance at the <a href='%s'>esoTalk support forum</a>."] = "ถ้าคุณมีปัญหาในการติดตั้งหรือต้องการความช่วยเหลือ อย่าลังเลที่จะขอความช่วยเหลือที่ <a href='%s'>esoTalk support forum</a>.";
 $definitions["Install esoTalk"] = "ติดตั้ง esoTalk";
 $definitions["Install My Forum"] = "ติดตั้ง My Forum";
 $definitions["Installed Languages"] = "ภาษาที่ติดตั้งแล้ว";
@@ -297,7 +297,7 @@ $definitions["Page Not Found"] = "ไม่พบหน้านี้";
 $definitions["Password"] = "รหัสผ่าน";
 $definitions["PHP version"] = "รุ่นของ PHP";
 $definitions["Plugins"] = "ปลั๊กอิน";
-$definitions["Post a Reply"] = "โพสต์ตอบ";
+$definitions["Post a Reply"] = "โพสต์คำตอบตอบ";
 $definitions["Post count"] = "จำนวนโพสต์";
 $definitions["Posts"] = "โพสต์";
 $definitions["Powered by"] = "ขับเคลื่อนโดย";
@@ -328,7 +328,7 @@ $definitions["Save Draft"] = "บันทึกแบบร่าง";
 $definitions["Search conversations..."] = "ค้นหาการสนทนา...";
 $definitions["Search within this conversation..."] = "ค้นหาภายในการสนทนานี้...";
 $definitions["Search"] = "ค้นหา";
-$definitions["See the private conversations I've had with %s"] = "See the private conversations I've had with %s";
+$definitions["See the private conversations I've had with %s"] = "ดูการสนทนาส่วนตัวของฉันกับ %s";
 $definitions["Set a New Password"] = "ตั้งรหัสผ่านใหม่";
 $definitions["Settings"] = "การตั้งค่า";
 $definitions["Show an image in the header"] = "แสดงรูปภาพในส่วนหัว";
@@ -350,7 +350,7 @@ $definitions["Start a private conversation with %s"] = "เริ่มการ
 $definitions["Start Conversation"] = "เริ่มการสนทนา";
 $definitions["Starting a conversation"] = "Starting a conversation";
 $definitions["Statistics"] = "สถิติ";
-$definitions["statistic.conversation.plural"] = "%s ก";
+$definitions["statistic.conversation.plural"] = "%s การสนทนา";
 $definitions["statistic.conversation"] = "%s การสนทนา";
 $definitions["statistic.member.plural"] = "%s สมาชิก";
 $definitions["statistic.member"] = "%s สมาชิก";
@@ -367,7 +367,7 @@ $definitions["Suspend member"] = "ระงับสมาชิก";
 $definitions["Suspend members."] = "ระงับสมาชิก";
 $definitions["Suspend"] = "ระงับ";
 
-$definitions["To get started with your forum, you might like to:"] = "To get started with your forum, you might like to:";
+$definitions["To get started with your forum, you might like to:"] = "เพื่อที่จะเริ่มต้นใช้งานฟอรั่มของคุณ คุณอาจจะต้องการ:";
 
 $definitions["Unapproved"] = "ยังไม่อนุมัติ";
 $definitions["Unhide"] = "เลิกซ่อน";
@@ -402,7 +402,7 @@ $definitions["viewingPosts"] = "<b>%s-%s</b> of %s posts";
 $definitions["Warning"] = "คำเตือน";
 $definitions["Welcome to esoTalk!"] = "ยินดีต้อนรับสู่ esoTalk!";
 $definitions["We've logged you in and taken you straight to your forum's administration panel. You're welcome."] = "We've logged you in and taken you straight to your forum's administration panel. You're welcome.";
-$definitions["Write a reply..."] = "Write a reply...";
+$definitions["Write a reply..."] = "เขียนคำตอบ...";
 
 $definitions["Yes"] = "ใช่";
 $definitions["You can manage channel-specific permissions on the channels page."] = "คุณสามารถจัดการสิทธิ์ของแต่ละแชเนลได้ในหน้าแชเนล"; //need review
@@ -524,7 +524,7 @@ $definitions["email.approved.subject"] = "%1\$s, บัญชีของคุ�
 $definitions["email.approved.body"] = "<p>บัญชี %1\$s ของคุณได้รับการยืนยันเรียบร้อยแล้ว</p><p>กรุณาคลิกที่ลิงก์ด้านล่างเพื่อเข้าสู่ระบบและเริ่มต้นใช้งาน<br>%2\$s</p>";
 
 $definitions["email.forgotPassword.subject"] = "คุณ %1\$s ลืมรหัสผ่านใช่หรือเปล่า ?";
-$definitions["email.forgotPassword.body"] = "<p>คุณได้ทำการยืนยันข้อมูลการลืมรหัสผ่านสำหรับบัญชีของคุณในเว็บไซต์ %1\$s หากคุณไม่ต้องการเปลี่ยนรหัสผ่านเข้าใช้านบัญชีของคุณ กรุณาลบหรือเพิกเฉยอีเมลนี้</p><p>แต่ หากคุณต้องการเปลี่ยนรหัสผ่านใหม่ กรุณาคลิกที่ลิงก์ด้านล่าง<br>%2\$s</p>";
+$definitions["email.forgotPassword.body"] = "<p>คุณได้ทำการยืนยันข้อมูลการลืมรหัสผ่านสำหรับบัญชีของคุณในเว็บไซต์ %1\$s หากคุณไม่ต้องการเปลี่ยนรหัสผ่านเข้าใช้งานบัญชีของคุณ กรุณาลบหรือเพิกเฉยอีเมลนี้</p><p>หากคุณต้องการเปลี่ยนรหัสผ่านใหม่ กรุณาคลิกที่ลิงก์ด้านล่าง<br>%2\$s</p>";
 
 $definitions["email.mention.subject"] = "[ได้รับการกล่าวถึงจาก %1\$s] %2\$s";
 $definitions["email.mention.body"] = "<p><strong>%1\$s</strong> กล่าวถึงคุณในกระทู้ <strong>%2\$s</strong>.</p><hr>%3\$s<hr><p>คุณสามารถดูโพสต์ที่ถูกกล่าวถึงได้ที่<br>%4\$s</p>";
