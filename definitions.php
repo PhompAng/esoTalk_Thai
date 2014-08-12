@@ -518,19 +518,19 @@ $definitions["email.header"] = "<p>สวัสดีคุณ %s!</p>";
 $definitions["email.footer"] = "<p>(หากคุณไม่ต้องการรับอีเมลนี้อีก คุณสามารถเปลี่ยนการตั้งค่าการแจ้งเตือนได้โดยการ <a href='%s'>คลิกที่นี่</a>.)</p>";
 
 $definitions["email.confirmEmail.subject"] = "%1\$s, กรุณายืนยันอีเมลของคุณ";
-$definitions["email.confirmEmail.body"] = "<p>คุณได้สมัครสมาชิกกับทางเว็บไซต์ %1\$s ของเรา โดยพ่วงกับอีเมลของคุณ</p><p>หากว่าคุณได้ทำการสมัครไว้ กรุณาทำการยืนยันการสมัครตามลิ้งค์ด้านล่างนี้ และบัญชีของคุณจะถูกยืนยัน<br>%2\$s</p>";
+$definitions["email.confirmEmail.body"] = "<p>คุณได้สมัครสมาชิกกับทางเว็บไซต์ %1\$s ของเรา โดยพ่วงกับอีเมลของคุณ</p><p>หากว่าคุณได้ทำการสมัครไว้ กรุณาทำการยืนยันการสมัครตามลิงก์ด้านล่างนี้ และบัญชีของคุณจะถูกยืนยัน<br>%2\$s</p>";
 
 $definitions["email.approved.subject"] = "%1\$s, บัญชีของคุณยืนยันเรียบร้อยแล้ว";
-$definitions["email.approved.body"] = "<p>บัญชี %1\$s ของคุณได้รับการยืนยันเรียบร้อยแล้ว</p><p>กรุณาคลิกที่ลิ้งค์ด้านล่างเพื่อเข้าสู่ระบบและเริ่มต้นใช้งาน<br>%2\$s</p>";
+$definitions["email.approved.body"] = "<p>บัญชี %1\$s ของคุณได้รับการยืนยันเรียบร้อยแล้ว</p><p>กรุณาคลิกที่ลิงก์ด้านล่างเพื่อเข้าสู่ระบบและเริ่มต้นใช้งาน<br>%2\$s</p>";
 
 $definitions["email.forgotPassword.subject"] = "คุณ %1\$s ลืมรหัสผ่านใช่หรือเปล่า ?";
-$definitions["email.forgotPassword.body"] = "<p>คุณได้ทำการยืนยันข้อมูลการลืมรหัสผ่านสำหรับบัญชีของคุณในเว็บไซต์ %1\$s หากคุณไม่ต้องการเปลี่ยนรหัสผ่านเข้าใช้านบัญชีของคุณ กรุณาลบหรือเพิกเฉยอีเมลนี้</p><p>แต่ หากคุณต้องการเปลี่ยนรหัสผ่านใหม่ กรุณาคลิกที่ลิ้งค์ด้านล่าง<br>%2\$s</p>";
+$definitions["email.forgotPassword.body"] = "<p>คุณได้ทำการยืนยันข้อมูลการลืมรหัสผ่านสำหรับบัญชีของคุณในเว็บไซต์ %1\$s หากคุณไม่ต้องการเปลี่ยนรหัสผ่านเข้าใช้านบัญชีของคุณ กรุณาลบหรือเพิกเฉยอีเมลนี้</p><p>แต่ หากคุณต้องการเปลี่ยนรหัสผ่านใหม่ กรุณาคลิกที่ลิงก์ด้านล่าง<br>%2\$s</p>";
 
-$definitions["email.mention.subject"] = "[ได้รับการอ้างอิงจาก %1\$s] %2\$s";
-$definitions["email.mention.body"] = "<p><strong>%1\$s</strong> อ้างอิงคุณในกระทู้ <strong>%2\$s</strong>.</p><hr>%3\$s<hr><p>คุณสามารถดูข้อความที่อ้างอิงได้ที่<br>%4\$s</p>";
+$definitions["email.mention.subject"] = "[ได้รับการกล่าวถึงจาก %1\$s] %2\$s";
+$definitions["email.mention.body"] = "<p><strong>%1\$s</strong> กล่าวถึงคุณในกระทู้ <strong>%2\$s</strong>.</p><hr>%3\$s<hr><p>คุณสามารถดูโพสต์ที่ถูกกล่าวถึงได้ที่<br>%4\$s</p>";
 
-$definitions["email.privateAdd.subject"] = "[Private] %1\$s";
-$definitions["email.privateAdd.body"] = "<p>You have been added to a private conversation titled <strong>%1\$s</strong>.</p><hr>%2\$s<hr><p>To view this conversation, check out the following link:<br>%3\$s</p>";
+$definitions["email.privateAdd.subject"] = "[ส่วนตัว] %1\$s";
+$definitions["email.privateAdd.body"] = "<p>คุณได้ถูกเพิ่มไปยังการสนทนาส่วนตัว<strong>%1\$s</strong>.</p><hr>%2\$s<hr><p>คุณสามารถดูการสนทนานี้ได้โดยไปยังลิงก์นี้:<br>%3\$s</p>";
 
 $definitions["email.post.subject"] = "[โพสท์ใหม่ในกระทู้] %1\$s";
 $definitions["email.post.body"] = "<p><strong>%1\$s</strong> ได้ตอบในกระทู้ <strong>%2\$s</strong> ที่คุณติดตามอยู่</p><hr>%3\$s<hr><p>สามารถดูข้อความที่ถูกตอบล่าสุดได้ที่<br>%4\$s</p>";
