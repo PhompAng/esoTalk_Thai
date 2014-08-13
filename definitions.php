@@ -504,13 +504,13 @@ $definitions["message.searchAllConversations"] = "Try searching for this term ac
 $definitions["message.setNewPassword"] = "Alright! Now, what do you want your new password to be?";
 $definitions["message.skinUninstalled"] = "The skin was uninstalled.";
 $definitions["message.suspended"] = "Ouch! A forum moderator has <strong>suspended</strong> your account. It sucks, but until the suspension is lifted you won't be able to do much around here. Hey, screw them!";
-$definitions["message.suspendMemberHelp"] = "Suspending %s will prevent them from replying to conversations, starting conversations, and viewing private conversations. They will effectively have the same permissions as a guest.";
-$definitions["message.tablePrefixConflict"] = "The installer has detected that there is another installation of esoTalk in the same MySQL database with the same table prefix.<br>• To overwrite this installation, click 'Install' again. <strong>All data will be lost.</strong><br>• To create a new installation alongside this one, change the table prefix.";
-$definitions["message.unsuspendMemberHelp"] = "Unsuspending %s will enable them to participate in conversations on this forum again.";
-$definitions["message.upgradeSuccessful"] = "esoTalk was successfully upgraded.";
-$definitions["message.waitForApproval"] = "Before you can start using your newly-created account, an administrator must approve your account. We'll send you an email when you've been approved!";
-$definitions["message.waitToReply"] = "You must wait at least %s seconds between starting or replying to conversations. Take a deep breath and try again.";
-$definitions["message.waitToSearch"] = "Woah, slow down! Looks like you're trying to perform a few too many searches. Wait %s seconds and try again.";
+$definitions["message.suspendMemberHelp"] = "การระงับ %s จะทำให้เขาตอบการสนทนา, เริ่มการสนทนา และเปิดอ่านการสนทนาส่วนตัว พวกเขาจะมีสิทธิ์ระดับเดียวกับผู้มาเยือน";
+$definitions["message.tablePrefixConflict"] = "ตัวติดตั้งได้ตรวจพบว่ามีการติดตั้ง esoTalk ในฐานข้อมูล MySQL นี้ด้วยคำนำหน้าตารางที่ซ้ำกัน <br>• เพื่อเขียนทับการติดตั้ง คลิก 'Install' again. <strong>ข้อมูลทั้งหมดจะสูญหาย</strong><br>• เพื่อติดตั้งควบคู่ไปกับของเก่าโปรดเปลี่ยนคำนำหน้าตาราง";
+$definitions["message.unsuspendMemberHelp"] = "การเลิกระงับ %s จะทำให้เขามีส่วนร่วมในการสนทนาในฟอรั่มนี้ได้อีกครั้ง";
+$definitions["message.upgradeSuccessful"] = "การปรับรุ่น esoTalk เสร็จสมบูรณ์";
+$definitions["message.waitForApproval"] = "ก่อนที่คุณจะใช้บัญชีที่พึ่งเปิดใหม่ คุณต้องรอให้ผู้ดูแลระบบอนุมัตก่อน เราจะส่งอีเมลไปเมื่อบัญชีของคุณได้รับการอนุมัต!";
+$definitions["message.waitToReply"] = "คุณต้องรออย่างน้อย %s วินาทีในการเริ่มต้นหรือตอบการสนทนา หายใจลึกๆ และลองอีกครั้ง";
+$definitions["message.waitToSearch"] = "ช้าก่อน! ดูเหมือนว่าคุณกำลังพยายามดำเนินการค้นหาหลายครั้งเกินไป โปรดรอ %s วินาทีและลองอีกครั้ง";
 
 
 // Emails.
