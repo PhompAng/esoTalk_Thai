@@ -303,6 +303,7 @@ $definitions["Posts"] = "โพสต์";
 $definitions["Powered by"] = "ขับเคลื่อนโดย";
 $definitions["Preview"] = "ตัวอย่าง";
 $definitions["Previous"] = "ก่อนหน้า";
+$definitions["Privacy"] = "ความเป็นส่วนตัว";
 
 $definitions["Quote"] = "อ้างอิง";
 $definitions["quote"] = "อ้างอิง";
