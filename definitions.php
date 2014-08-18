@@ -392,10 +392,10 @@ $definitions["Used to verify your account and subscribe to conversations"] = "�
 $definitions["Username"] = "ชื่อผู้ใช้";
 $definitions["Username or Email"] = "ชื่อผู้ใช้หรืออีเมล";
 
-$definitions["View %s's profile"] = "แสดงโปรไฟล์ของ %s";
+$definitions["View %s's profile"] = "แสดงโพรไฟล์ของ %s";
 $definitions["View all notifications"] = "แสดงการแจ้งเตือนทั้งหมด";
 $definitions["View more"] = "ดูต่อ";
-$definitions["View your profile"] = "ดูโปรไฟล์ของคุณ";
+$definitions["View your profile"] = "ดูโพรไฟล์ของคุณ";
 $definitions["View"] = "แสดง";
 $definitions["Viewing: %s"] = "กำลังดู: %s";
 $definitions["viewingPosts"] = "<b>%s-%s</b> of %s posts";
